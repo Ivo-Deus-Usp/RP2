@@ -1,12 +1,12 @@
 # LEITURA DOS DADOS DA POF 2017-2018 - R
 
+# Este código processa uma série de arquivos em txt provindos dos microdados da POF-IBGE e entrega os nomes de suas várias em arquivos csv.
 
-# "....." indica a pasta/diretorio de trabalho no HD local separados por "/"
-# onde se encontram os arquivos .txt descompactados do arquivo Dados_aaaammdd.zip
-# Exemplo: setwd("c:/POF2018/Dados_aaaammdd/")
+# Colocar este arquivo de código no mesmo diretório que os arquivos de dados para executar
+
+
 
 # REGISTRO - MORADOR
-
 
 MORADOR <-
   read.fwf("./MORADOR.txt"
