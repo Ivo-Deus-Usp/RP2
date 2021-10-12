@@ -1,7 +1,7 @@
 # LEITURA DOS DADOS DA POF 2017-2018 - R
 
 
-# "....." indica a pasta/diret�rio de trabalho no HD local separados por "/"
+# "....." indica a pasta/diretorio de trabalho no HD local separados por "/"
 # onde se encontram os arquivos .txt descompactados do arquivo Dados_aaaammdd.zip
 # Exemplo: setwd("c:/POF2018/Dados_aaaammdd/")
 
