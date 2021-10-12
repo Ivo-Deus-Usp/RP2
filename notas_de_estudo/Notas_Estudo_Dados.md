@@ -2,17 +2,13 @@
 
 ## Resumo
 
-- Nosso projeto visa criar um site interativo para a disposição de um quiz e informações sobre o consumo e estilo de vida da população brasileira.  
-
+- Nosso projeto visa apresentarcriar um site interativo para a disposição de um quiz e informações sobre o consumo e estilo de vida da população brasileira.  
 
 - Por meio de dados fornecidos do IBGE, buscamos definir elementos como distribuições, média e outros dados de interesse para formular perguntas e apresentar de forma criativa ao usuário este panorama.  
-
 
 - Temos como objetivo criar uma melhor consciência sobre o estado destes padrões de consumo e estilo de vida como um todo.
 
 ## Pesquisa de Orçamentos Familiares 2017-2018
-
-<sub>Refs.: [[1]](https://www.ibge.gov.br/estatisticas/sociais/saude/24786-pesquisa-de-orcamentos-familiares-2.html?edicao=31309&t=sobre)<sub>
 
 ### Sumário
 
@@ -47,14 +43,6 @@
 		- idade
 		- nível de escolaridade
 		- profissão
-
-### Indicadores selecionados (3)
-
-- Visa gerar uma compreensão de como:
-	- a disponibilidade de bens
-	- as características das famílias
-	- e da sociedade em si
-- ...afetam a qualidade de vida da população
 
 ## Dados
 
