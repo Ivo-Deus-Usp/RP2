@@ -39,8 +39,7 @@ Notas metodológicas
 Considerações metodológicas sobre a Pesquisa de Orçamentos Familiares - POF podem ser obtidas no capítulo Notas técnicas de suas publicações de resultados.  
 
 
-### Condicionantes e subgrupos
-
+### Perfis, condicionantes e subgrupos
 #### Geográfico
 - Urbanas:
     - Nacional
@@ -142,11 +141,15 @@ POF 1 - Características do Domicílio e dos Moradores
 
 
 # Referências
-[1](https://www.ibge.gov.br/estatisticas/sociais/saude/24786-pesquisa-de-orcamentos-familiares-2.html?=&t=o-que-e)  
-[2](https://metadados.ibge.gov.br/consulta/estatisticos/operacoes-estatisticas/OF)  
-[3] POF 2017-2018: *Primeiros Resultados*. **IBGE.** Disponível em: https://www.ibge.gov.br/estatisticas/sociais/saude/24786-pesquisa-de-orcamentos-familiares-2.html?edicao=25578&t=sobre. Acesso em: Outubro de 2021.
-[4] POF 2017-2018: *Perfil das despesas no Brasil: indicadores selecionados*. **IBGE.** Disponível em: https://www.ibge.gov.br/estatisticas/sociais/saude/24786-pesquisa-de-orcamentos-familiares-2.html?edicao=29142&t=sobre. Acesso em: Outubro de 2021.
-[5] POF 2017-2018: *Perfil das despesas no Brasil: indicadores selecionados de alimentação, transporte, lazer e inclusão financeira*. **IBGE.** Disponível em: https://www.ibge.gov.br/estatisticas/sociais/saude/24786-pesquisa-de-orcamentos-familiares-2.html?edicao=31309&t=sobre. Acesso em: Outubro de 2021.
+[1] Pesquisa de Orçamentos Familiares. **IBGE.** Disponível em:https://www.ibge.gov.br/estatisticas/sociais/saude/24786-pesquisa-de-orcamentos-familiares-2.html?=&t=o-que-e. Acesso em: Setembro de 2021.  
+
+[2] Metadados de Operações Estatísticas: Orçamentos Familiares. **IBGE.** Disponível em: https://metadados.ibge.gov.br/consulta/estatisticos/operacoes-estatisticas/OF. Acesso em: Setembro de 2021.  
+
+[3] POF 2017-2018: *Primeiros Resultados*. **IBGE.** Disponível em: https://www.ibge.gov.br/estatisticas/sociais/saude/24786-pesquisa-de-orcamentos-familiares-2.html?edicao=25578&t=sobre. Acesso em: Outubro de 2021.  
+
+[4] POF 2017-2018: *Perfil das despesas no Brasil: indicadores selecionados*. **IBGE.** Disponível em: https://www.ibge.gov.br/estatisticas/sociais/saude/24786-pesquisa-de-orcamentos-familiares-2.html?edicao=29142&t=sobre. Acesso em: Outubro de 2021.  
+
+[5] POF 2017-2018: *Perfil das despesas no Brasil: indicadores selecionados de alimentação, transporte, lazer e inclusão financeira*. **IBGE.** Disponível em: https://www.ibge.gov.br/estatisticas/sociais/saude/24786-pesquisa-de-orcamentos-familiares-2.html?edicao=31309&t=sobre. Acesso em: Outubro de 2021.  
 
 
 
