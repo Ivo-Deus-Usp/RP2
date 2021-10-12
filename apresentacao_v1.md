@@ -3,6 +3,13 @@
 ## POF: Pesquisa de Orçamento Familiar [1][2]
 Visa principalmente mensurar as estruturas de consumo das famílias e possibilita traçar um perfil das condições de vida da população a partir da análise de seus orçamentos domésticos.
 
+### Objetivo
+- As informações da pesquisa são utilizadas:
+    - **aporte aos [Índices de Preços ao Consumidor](https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9258-indice-nacional-de-precos-ao-consumidor.html?=&t=o-que-e)** (mensura o poder de compra dos salários, através da mensuração das variações de preços da cesta de consumo da população assalariada com mais baixo rendimento)
+    - **aporte ao cálculo das [Contas Nacionais](https://www.ibge.gov.br/estatisticas/economicas/contas-nacionais.html)** (compreende as informações sobre geração, distribuição e uso da renda no País, PIB, PIB per capita, Renda Nacional Bruta, entre outras)
+    - **estudar a evolução dos hábitos de consumo das famílias** 
+    - possibilitar os mais variados estudos e planejamentos sobre: distribuição, concentração e desigualdade de renda, aspectos demográficos e socioeconômicos, quantidades adquiridas de alimentos "per capita".
+
 ### Histórico 
 - Pesquisa de territorial nacional, à exceção das áreas rurais das Regiões Norte e Centro-Oeste. 
     - *Estudo Nacional da Despesa Familiar - ENDEF 1974-1975*
@@ -16,14 +23,6 @@ Visa principalmente mensurar as estruturas de consumo das famílias e possibilit
     - ***POF 2017-2018***
         - Variáveis de consumo efetivo pessoal de alimentos e bebidas no domicílio e fora dele.
 
-### Objetivo
-- As informações da pesquisa são utilizadas:
-    - **aporte aos [Índices de Preços ao Consumidor](https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9258-indice-nacional-de-precos-ao-consumidor.html?=&t=o-que-e)** (mensura o poder de compra dos salários, através da mensuração das variações de preços da cesta de consumo da população assalariada com mais baixo rendimento)
-    - **aporte ao cálculo das [Contas Nacionais](https://www.ibge.gov.br/estatisticas/economicas/contas-nacionais.html)** (compreende as informações sobre geração, distribuição e uso da renda no País, PIB, PIB per capita, Renda Nacional Bruta, entre outras)
-    - **estudar a evolução dos hábitos de consumo das famílias** 
-    - possibilitar os mais variados estudos e planejamentos sobre: distribuição, concentração e desigualdade de renda, aspectos demográficos e socioeconômicos, quantidades adquiridas de alimentos "per capita".
-
-
 ### Características
 **Tipo de dados**: Dados de pesquisa por amostragem probabilística;  
 **Periodicidade**: Quinquenal*;  
@@ -32,12 +31,38 @@ Visa principalmente mensurar as estruturas de consumo das famílias e possibilit
 **Período de Coleta**: 11/07/2017 - 11/07/2018
 
 ### Metodologia
+(((reescrever)))
 O desenho atual da amostra da POF foi estruturado de tal modo que propicia a publicação de resultados nos seguintes níveis: Brasil, Grandes Regiões, e também por situações urbana e rural. Para as Unidades da Federação, os resultados contemplam o total e a situação urbana. Nas nove Regiões Metropolitanas e nos Municípios das Capitais, os resultados correspondem à situação urbana. 
-
-
 Notas metodológicas  
 Considerações metodológicas sobre a Pesquisa de Orçamentos Familiares - POF podem ser obtidas no capítulo Notas técnicas de suas publicações de resultados.  
 
+
+### Conjuntos de Dados
+- Entrega de dados em conjunto à publicação das análises
+
+#### Primeiros Resultados [3]
+Dados sobre:  
+    - Despesas  
+    - Rendimentos  
+Publicação: [POF 2017-2018: primeiros resultados](https://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=2101670)  
+
+#### Indicadores Selecionados [4]
+Dados sobre:  
+    - Despesa per capita total  
+    - Renda  
+    - Moradia  
+    - Acesso a serviços de utilidade pública  
+    - Saúde  
+    - Educação  
+Publicação: [POF 2017-2018: indicadores selecionados](https://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=2101761)  
+
+#### Indicadores Estendidos [5]
+Dados sobre:  
+    - Acesso a serviços financeiros e padrão de vida  
+    - Alimentação  
+    - Transporte  
+    - Lazer e viagens  
+Publicação: [POF 2017-2018: indicadores selecionados de alimentação, transporte, lazer e inclusão financeira](https://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=2101844)  
 
 ### Perfis, condicionantes e subgrupos
 #### Geográfico
@@ -88,38 +113,6 @@ Considerações metodológicas sobre a Pesquisa de Orçamentos Familiares - POF 
 - Um ou mais idosos, com ao menos um adulto, com ou sem crianças
 
 
-### Conjuntos de Dados
-- Entrega de dados em conjunto à publicação das análises
-
-#### Primeiros Resultados [3]
-Dados sobre:  
-    - Despesas  
-    - Rendimentos  
-Publicação: [POF 2017-2018: primeiros resultados](https://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=2101670)  
-
-#### Indicadores Selecionados [4]
-Dados sobre:  
-    - Despesa per capita total  
-    - Renda  
-    - Moradia  
-    - Acesso a serviços de utilidade pública  
-    - Saúde  
-    - Educação  
-Publicação: [POF 2017-2018: indicadores selecionados](https://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=2101761)  
-
-#### Indicadores Estendidos [5]
-Dados sobre:  
-    - Acesso a serviços financeiros e padrão de vida  
-    - Alimentação  
-    - Transporte  
-    - Lazer e viagens  
-Publicação: [POF 2017-2018: indicadores selecionados de alimentação, transporte, lazer e inclusão financeira](https://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=2101844)  
-
-#### Temáticas
-- avaliação nutricional da disponibilidade domiciliar de alimentos no Brasil
-- análise da segurança alimentar no Brasil
-- análise da segurança alimentar no Brasil: mensuração da segurança alimentar e nutricional
-
 ### Documentação
 **Questionários**  
 [POF 1 - Características do Domicílio e dos Moradores](https://biblioteca.ibge.gov.br/visualizacao/instrumentos_de_coleta/doc5561.pdf)  
@@ -134,7 +127,6 @@ Publicação: [POF 2017-2018: indicadores selecionados de alimentação, transpo
 [POF - Manual do Agente de Pesquisa](https://biblioteca.ibge.gov.br/visualizacao/instrumentos_de_coleta/doc5568.pdf)
 
 ## Trabalho
-POF 1 - Características do Domicílio e dos Moradores
 
 
 
