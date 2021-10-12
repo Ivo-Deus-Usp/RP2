@@ -1,16 +1,14 @@
-# Apresentação (13/out)
-
-## POF: Pesquisa de Orçamento Familiar [1][2]
+# POF: Pesquisa de Orçamento Familiar [1][2]
 Visa principalmente mensurar as estruturas de consumo das famílias e possibilita traçar um perfil das condições de vida da população a partir da análise de seus orçamentos domésticos.
 
-### Objetivo
+## Objetivo
 - As informações da pesquisa são utilizadas:
     - **aporte aos [Índices de Preços ao Consumidor](https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9258-indice-nacional-de-precos-ao-consumidor.html?=&t=o-que-e)** (mensura o poder de compra dos salários, através da mensuração das variações de preços da cesta de consumo da população assalariada com mais baixo rendimento)
     - **aporte ao cálculo das [Contas Nacionais](https://www.ibge.gov.br/estatisticas/economicas/contas-nacionais.html)** (compreende as informações sobre geração, distribuição e uso da renda no País, PIB, PIB per capita, Renda Nacional Bruta, entre outras)
     - **estudar a evolução dos hábitos de consumo das famílias** 
     - possibilitar os mais variados estudos e planejamentos sobre: distribuição, concentração e desigualdade de renda, aspectos demográficos e socioeconômicos, quantidades adquiridas de alimentos "per capita".
 
-### Histórico 
+## Histórico 
 - Pesquisa de territorial nacional, à exceção das áreas rurais das Regiões Norte e Centro-Oeste. 
     - *Estudo Nacional da Despesa Familiar - ENDEF 1974-1975*
 - Aporte para os índices de preços ao consumidor. Abrangência: 9 Regiões Metropolitanas, Goiânia e Distrito Federal.
@@ -23,30 +21,30 @@ Visa principalmente mensurar as estruturas de consumo das famílias e possibilit
     - ***POF 2017-2018***
         - Variáveis de consumo efetivo pessoal de alimentos e bebidas no domicílio e fora dele.
 
-### Características
+## Características
 **Tipo de dados**: Dados de pesquisa por amostragem probabilística;  
 **Periodicidade**: Quinquenal*;  
 **Abrangência geográfica**: Nacional;  
 **População alvo**: Domicílios particulares permanentes ocupados e seus moradores, na área de abrangência da pesquisa nas situações urbana e rural.  
 **Período de Coleta**: 11/07/2017 - 11/07/2018
 
-### Metodologia
+## Metodologia
 (((reescrever)))
 O desenho atual da amostra da POF foi estruturado de tal modo que propicia a publicação de resultados nos seguintes níveis: Brasil, Grandes Regiões, e também por situações urbana e rural. Para as Unidades da Federação, os resultados contemplam o total e a situação urbana. Nas nove Regiões Metropolitanas e nos Municípios das Capitais, os resultados correspondem à situação urbana. 
 Notas metodológicas  
 Considerações metodológicas sobre a Pesquisa de Orçamentos Familiares - POF podem ser obtidas no capítulo Notas técnicas de suas publicações de resultados.  
 
 
-### Conjuntos de Dados
+## Conjuntos de Dados
 - Entrega de dados em conjunto à publicação das análises
 
-#### Primeiros Resultados [3]
+### Primeiros Resultados [3]
 Dados sobre:  
     - Despesas  
     - Rendimentos  
 Publicação: [POF 2017-2018: primeiros resultados](https://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=2101670)  
 
-#### Indicadores Selecionados [4]
+### Indicadores Selecionados [4]
 Dados sobre:  
     - Despesa per capita total  
     - Renda  
@@ -56,7 +54,7 @@ Dados sobre:
     - Educação  
 Publicação: [POF 2017-2018: indicadores selecionados](https://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=2101761)  
 
-#### Indicadores Estendidos [5]
+### Indicadores Estendidos [5]
 Dados sobre:  
     - Acesso a serviços financeiros e padrão de vida  
     - Alimentação  
@@ -64,8 +62,8 @@ Dados sobre:
     - Lazer e viagens  
 Publicação: [POF 2017-2018: indicadores selecionados de alimentação, transporte, lazer e inclusão financeira](https://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=2101844)  
 
-### Perfis, condicionantes e subgrupos
-#### Geográfico
+## Perfis, condicionantes e subgrupos
+### Geográfico
 - Urbanas:
     - Nacional
     - Grandes Regiões (Norte, Sudeste, Nordeste, Centro-Oeste e Sul)
@@ -75,27 +73,27 @@ Publicação: [POF 2017-2018: indicadores selecionados de alimentação, transpo
     - Nacional 
     - Grandes Regiões
 
-#### Faixas Etárias
+### Faixas Etárias
 - Até 24 anos
 - 25 a 49 anos
 - 50 a 64 anos
 - 65 anos ou mais
 
-#### Cor ou raça
+### Cor ou raça
 - Brancos
 - Pretos e Pardos
 
-#### Sexo
+### Sexo
 - Homem
 - Mulher
 
-#### Nível de instrução
+### Nível de instrução
 - Sem instrução
 - Ensino Fundamental incompleto
 - Ensino Médio incompleto
 - Ensino Superior incompleto
 
-#### Ocupação e formalização
+### Ocupação e formalização
 - Empregado doméstico
 - Empregado com carteira
 - Empregado sem carteira
@@ -104,7 +102,7 @@ Publicação: [POF 2017-2018: indicadores selecionados de alimentação, transpo
 - Empregador
 - Fora da força de trabalho e outros casos
 
-#### Composição da família
+### Composição da família
 - Um adulto sem criança
 - Um adulto com ao menos uma criança
 - Mais de um adulto sem criança
@@ -113,7 +111,7 @@ Publicação: [POF 2017-2018: indicadores selecionados de alimentação, transpo
 - Um ou mais idosos, com ao menos um adulto, com ou sem crianças
 
 
-### Documentação
+## Documentação
 **Questionários**  
 [POF 1 - Características do Domicílio e dos Moradores](https://biblioteca.ibge.gov.br/visualizacao/instrumentos_de_coleta/doc5561.pdf)  
 [POF 2 - Questionário de Aquisição Coletiva](https://biblioteca.ibge.gov.br/visualizacao/instrumentos_de_coleta/doc5562.pdf)  
@@ -125,11 +123,6 @@ Publicação: [POF 2017-2018: indicadores selecionados de alimentação, transpo
 
 **Manuais**  
 [POF - Manual do Agente de Pesquisa](https://biblioteca.ibge.gov.br/visualizacao/instrumentos_de_coleta/doc5568.pdf)
-
-## Trabalho
-
-
-
 
 
 # Referências
